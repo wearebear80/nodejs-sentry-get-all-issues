@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-sentry-get-all-issues",
+  "version": "1.0.0",
+  "description": "Solving problem with unobvious pagination using sentry API - https://github.com/getsentry/sentry/issues/27147",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
