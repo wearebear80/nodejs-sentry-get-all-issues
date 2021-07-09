@@ -1,6 +1,6 @@
 {
-  "name": "nodejs-sentry-get-all-issues",
-  "version": "1.0.0",
+  "name": "@m.dolgikh/nodejs-sentry-get-all-issues",
+  "version": "1.0.1",
   "description": "Solving problem with unobvious pagination using sentry API - https://github.com/getsentry/sentry/issues/27147",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearebear80/nodejs-sentry-get-all-issues.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wearebear80/nodejs-sentry-get-all-issues/issues"
+  },
+  "homepage": "https://github.com/wearebear80/nodejs-sentry-get-all-issues#readme"
 }

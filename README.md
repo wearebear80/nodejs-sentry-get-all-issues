@@ -7,6 +7,12 @@ There is a nodejs api solution
 
 NOTE: its a very specific solution aimed at solving my specific problem :)
 
+## Installation
+
+```
+npm i @m.dolgikh/nodejs-sentry-get-all-issues
+```
+
 ## How it works
 
 In Setnry API cursor-like pagination is being implemented.
