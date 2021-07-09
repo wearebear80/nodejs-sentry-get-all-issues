@@ -36,7 +36,7 @@ getAllIssues(
 for example, my case:
 
 ```
-// I want to now how many JS-TypeErrors i have for last 90d
+// I want to know how many JS-TypeErrors i have for last 90d
 
 const { getAllIssues } = require('./index' )
 
